@@ -24,7 +24,7 @@ O que iremos aprender
 7. Configurando ambiente de Desenvolvimento
   - webpack-dev-server
   - Refresh automático no browser ao salvar um arquivo
-  - Hor Module Replacement
+  - Hot Module Replacement
   - Source Maps
 8. Ambiente de Produção
 
