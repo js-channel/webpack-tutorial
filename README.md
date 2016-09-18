@@ -14,8 +14,8 @@ O que iremos aprender
 
 1. O Que é e Como Webpack funciona
 2. Definir o arquivo de configuração
-3. Trabalhar com Path Aliases
-4. Resolver extensões de arquivos
+3. Resolver extensões de arquivos
+4. Trabalhar com Path Aliases
 5. Loaders
   - O que são
   - Exemplos de loaders: ts-loader e sass-loader
