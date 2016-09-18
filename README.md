@@ -28,7 +28,7 @@ O que iremos aprender
   - Source Maps
 8. Ambiente de Produção
 
-Branch e Videos
+Branchs e Videos
 ---------------
 
 Há um branch para cada vídeo. Então, por exemplo, para ver todo o código feito desde o começo da série até o vídeo #6, você pode executar este comando git no terminal: 
