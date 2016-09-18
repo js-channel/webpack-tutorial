@@ -28,6 +28,25 @@ O que iremos aprender
   - Source Maps
 8. Ambiente de Produção
 
+Instalação
+----------
+
+Pré-requisitos.
+
+  - (Node.js)[https://nodejs.org/]
+  - (Git)[https://git-scm.com/]
+
+Para instalar, execute os comandos abaixo.
+
+1. Clone o repositório na sua máquina local.
+  - ```git clone https://github.com/js-channel/webpack-tutorial.git```
+2. Navegue até a pasta do projeto e instale as dependências.
+  - ```cd webpack-tutorial && npm install```
+3. Execute a aplicação.
+  - ```npm start```
+4. Abra a aplicação no browser com a URL
+  - ```localhost:8080```
+
 Branchs e Videos
 ---------------
 
