@@ -12,7 +12,7 @@ E você entenderá o suficiente para lidar com possíveis problemas que possam o
 O que iremos aprender
 ---------------------
 
-1. Como Webpack funciona
+1. O Que é e Como Webpack funciona
 2. Definir o arquivo de configuração
 3. Trabalhar com Path Aliases
 4. Resolver extensões de arquivos
