@@ -31,15 +31,15 @@ O que iremos aprender
 Branch e Videos
 ---------------
 
-Há um branch para cada vídeo. Então, por exemplo, para ver todo o código feito desde o começo da série até o vídeo #6, você pode executar este comando: 
+Há um branch para cada vídeo. Então, por exemplo, para ver todo o código feito desde o começo da série até o vídeo #6, você pode executar este comando git no terminal: 
 
-```$ git checkout #6_Arquivo-de-Configuracao```
+```git checkout #6_Arquivo-de-Configuracao```
 
 Dessa forma, você pode ficar alternando entre o código feito em cada vídeo da série.
 
 Para visualizar todos os branchs, basta executar o comando:
 
-```$ git branch -r```
+```git branch -r```
 
 Licença
 -------
