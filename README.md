@@ -7,7 +7,7 @@ Objetivo
 --------
 
 Esta série vai te ensinar Webpack de forma rápida, focada na prática.
-E você entenderá o suficiente para lidar com possíveis problemas que possam ocorrer ao iniciar uma configuração específica para o seu projeto.
+E você entenderá o suficiente para iniciar uma configuração específica para o seu projeto.
 
 O que iremos aprender
 ---------------------
