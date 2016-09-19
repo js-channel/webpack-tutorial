@@ -33,8 +33,8 @@ Instalação
 
 Pré-requisitos.
 
-  - (Node.js)[https://nodejs.org/]
-  - (Git)[https://git-scm.com/]
+  - [Node.js](https://nodejs.org/)
+  - [Git](https://git-scm.com/)
 
 Para instalar, execute os comandos abaixo.
 
