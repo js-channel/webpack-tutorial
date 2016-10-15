@@ -1,0 +1,22 @@
+{
+  "name": "webpack-tutorial",
+  "version": "1.0.0",
+  "description": "Webpack Tutorial ================",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-channel/webpack-tutorial.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-channel/webpack-tutorial/issues"
+  },
+  "homepage": "https://github.com/js-channel/webpack-tutorial#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
