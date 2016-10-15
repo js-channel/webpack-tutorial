@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/js-channel/webpack-tutorial#readme",
   "devDependencies": {
-    "webpack": "^1.13.2"
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
   }
 }
