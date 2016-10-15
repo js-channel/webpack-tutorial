@@ -39,3 +39,6 @@ jspm_packages
 # vim
 .tern-project
 *.swp
+
+# this project
+bundle.js
