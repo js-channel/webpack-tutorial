@@ -4,7 +4,7 @@
   "description": "Webpack Tutorial ================",
   "main": "webpack.config.js",
   "scripts": {
-    "start": "webpack-dev-server --content-base build",
+    "start": "webpack-dev-server --content-base build --inline",
     "build": "webpack"
   },
   "repository": {
