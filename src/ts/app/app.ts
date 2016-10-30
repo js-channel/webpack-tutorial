@@ -4,12 +4,12 @@ import { sayHelloTo } from './hello'
 let module: any;
 const hot = module.hot;
 
-const span = document.createElement('span');
-span.innerText = sayHelloTo('Javascript Developer');
+const h1 = document.createElement('h1');
+h1.innerText = sayHelloTo('Javascript Developer');
 
-document.body.appendChild(span);
+document.body.appendChild(h1);
 
 if (hot) {
     hot.accept();
-    hot.dispose(() => span.parentNode.removeChild(span));
+    hot.dispose(() => h1.parentNode.removeChild(h1));
 }
