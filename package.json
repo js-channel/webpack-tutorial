@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/js-channel/webpack-tutorial#readme",
   "devDependencies": {
+    "ts-loader": "^0.9.5",
+    "typescript": "^2.0.6",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.16.2"
   }
