@@ -1,4 +1,4 @@
-import './../css/index.css'
+import './../styles/index.scss'
 import { sayHelloTo } from './hello.ts'
 
 let module: any;
