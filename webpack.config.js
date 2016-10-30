@@ -6,5 +6,14 @@ module.exports = {
         path: path.resolve('build'),
         filename: 'bundle.js'
     },
-    devtool: 'source-map'
+    devtool: 'source-map',
+    module: {
+        loaders: [
+            {
+                test: /\.ts$/,
+                //include: [ 'src' ],
+                loader: 'ts-loader'
+            }
+        ]
+    }
 }
