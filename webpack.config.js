@@ -20,5 +20,8 @@ module.exports = {
                 loader: 'style!css!sass'
             }
         ]
+    },
+    resolve: {
+        extensions: ['', '.webpack.js', '.web.js', '.js', '.ts', '.scss']
     }
 }

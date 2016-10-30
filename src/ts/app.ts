@@ -1,5 +1,5 @@
-import './../styles/index.scss'
-import { sayHelloTo } from './hello.ts'
+import './../styles/index'
+import { sayHelloTo } from './hello'
 
 let module: any;
 const hot = module.hot;
