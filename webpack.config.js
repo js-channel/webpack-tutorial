@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-    entry: path.resolve(__dirname, 'src/js/app.js'),
+    entry: path.resolve(__dirname, 'src/ts/app.ts'),
     output: {
         path: path.resolve('build'),
         filename: 'bundle.js'
@@ -11,7 +11,7 @@ module.exports = {
         loaders: [
             {
                 test: /\.ts$/,
-                //include: [ 'src' ],
+                include: [path.resolve(__dirname, 'src/ts')],
                 loader: 'ts-loader'
             }
         ]
