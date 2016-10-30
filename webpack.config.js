@@ -15,9 +15,9 @@ module.exports = {
                 loader: 'ts-loader'
             },
             {
-                test: /\.css$/,
-                include: [path.resolve(__dirname, 'src/css')],
-                loader: 'style!css'
+                test: /\.s(a|c)ss$/,
+                include: [path.resolve(__dirname, 'src/styles')],
+                loader: 'style!css!sass'
             }
         ]
     }
