@@ -1,5 +1,5 @@
 const sayHelloTo = name => `Hello, ${name}`
 
-module.exports = {
+export {
     sayHelloTo
 }

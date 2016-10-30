@@ -1,4 +1,6 @@
-const { sayHelloTo } = require('./hello.js');
+import { sayHelloTo } from './hello.ts'
+
+let module: any;
 const hot = module.hot;
 
 const span = document.createElement('span');
