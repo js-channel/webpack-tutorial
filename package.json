@@ -5,7 +5,7 @@
   "main": "webpack.config.js",
   "scripts": {
     "start": "webpack-dev-server --content-base build --inline --hot",
-    "build": "webpack"
+    "build": "NODE_ENV=production webpack -p"
   },
   "repository": {
     "type": "git",
