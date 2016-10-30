@@ -13,6 +13,11 @@ module.exports = {
                 test: /\.ts$/,
                 include: [path.resolve(__dirname, 'src/ts')],
                 loader: 'ts-loader'
+            },
+            {
+                test: /\.css$/,
+                include: [path.resolve(__dirname, 'src/css')],
+                loader: 'style!css'
             }
         ]
     }
